@@ -5,7 +5,7 @@
 
 <img width="400px" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/minimalism-programming-code-wallpaper-preview.jpg" alt="" align="right" >
 
-- 🎓 I'm a **Computer Science student** currently in my 4th semester.
+- 🎓 I'm a **Computer Science student** currently in my 8th semester.
 - 🌱 On a mission to become a **Full-Stack developer** and a **Tech Guru** within the next 2 years!
 - 🎮 I also enjoy **Gaming** and **Anime** in my free time—because, why not?
 
@@ -13,7 +13,6 @@
 
 I'm currently focused on:
 - **Front-End Development** with **HTML** and **CSS**
-- **Python** for Automation and some personal projects
 - **Git & GitHub** for version control and open-source collaboration
 - Understanding **Computer Science** fundamentals deeply
 
